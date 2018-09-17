@@ -1,7 +1,7 @@
 # MemoryGame
 Project Two for the Udacity FEND Nanodegree -- the memory game!
 Special thanks to Matthew Cranford and Mike Wales for their walkthroughs, and W3 schools for their in-depth information.
-This is my first time using GitHub!
+This is my first time coding so much JavaScript and if it weren't for my classmates in Slack and the awesome resources provided by the Udacity team, I don't think I would have finished!  Fingers crossed I can get the last three projects done prior to the end of the scholarship!
 
 ## Game Play
 The clock will not start until you've made your first card choice.
