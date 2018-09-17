@@ -1,0 +1,13 @@
+# MemoryGame
+Project Two for the Udacity FEND Nanodegree -- the memory game!
+Special thanks to Matthew Cranford and Mike Wales for their walkthroughs, and W3 schools for their in-depth information.
+This is my first time using GitHub!
+
+## Game Play
+The clock will not start until you've made your first card choice.
+The star-rating will go down as you move up in moves:
+16 moves knocks you down to two stars & 24 moves knocks you to one!
+There are 8 total pairs.
+
+### TODO:
+I eventually want to customize the CSS & symbols, but for now I am using the master files, which provided the HTML and CSS, through Udacity.
