@@ -79,7 +79,6 @@ function displayTime() {
   } else {
     clock.innerHTML = `${minutes}:${seconds}`
   }
-  //console.log(clock);
 }
 
 //Stopping the clock
@@ -178,8 +177,6 @@ function writeModalStats() {
   movesStat.innerHTML = `Moves = ${moves}`;
   starsStat.innerHTML = `Stars = ${stars}`;
 }
-
-//writeModalStats();
 
 function getStars() {
   stars = document.querySelectorAll('.stars li');
