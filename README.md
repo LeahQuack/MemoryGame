@@ -25,7 +25,9 @@ The game board is a grid of 16 virtual cards with eight sets of different icons.
 
 ### For me TODO:
 [ ] Customize the CSS
+
 [ ] Customize the icons
+
 [ ] Add a leaderboard
 
 ### Special Thanks
