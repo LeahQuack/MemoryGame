@@ -70,10 +70,10 @@ function startClock() {
 
 //Properly displaying time with mins and secs
 function displayTime() {
-  const minutes = Math.floor(time / 60);
-  const seconds = Math.floor(time % 60);
   const clock = document.querySelector(".clock");
   clock.innerHTML = time;
+  const minutes = Math.floor(time / 60);
+  const seconds = Math.floor(time % 60);
   if (seconds < 10) {
     clock.innerHTML = `${minutes}:0${seconds}`;
   } else {
@@ -179,7 +179,7 @@ function writeModalStats() {
   starsStat.innerHTML = `Stars = ${stars}`;
 }
 
-writeModalStats();
+//writeModalStats();
 
 function getStars() {
   stars = document.querySelectorAll('.stars li');
